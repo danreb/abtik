@@ -1,0 +1,44 @@
+name = Abtik
+description = Abtik is HTML 5 Drupal 7 base theme that uses Twitter Bootstrap and with lots of block regions.
+core = 7.x
+version = VERSION
+
+stylesheets[screen][] = css/bootstrap.css
+stylesheets[screen][] = css/bootstrap-responsive.css
+#stylesheets[screen][] = css/layout.css
+stylesheets[screen][] = css/style.css
+
+#scripts[] = js/abtik.js
+
+regions[top] = Top Most
+regions[userbar1] = User Bar First
+regions[userbar2] = User Bar Second
+regions[branding] = Branding
+regions[header] = Header
+regions[site_search] = Site Search
+regions[header_first] = Header First
+regions[header_second] = Header Second
+regions[header_third] = Header Third
+regions[menu] = Main Menu
+regions[promotions] = Promotions
+regions[topcolumn1] = Top Column 1
+regions[topcolumn2] = Top Column 2
+regions[topcolumn3] = Top Column 3
+regions[sidebar_first] = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[content] = Content
+regions[column_1] = Column One
+regions[column_2] = Column Two
+regions[content_bottom]  = Content Bottom
+regions[node_top] = Node Top
+regions[node_bottom] = Node Bottom
+regions[post_scripts_1] = Post Script First
+regions[post_scripts_2] = Post Script Second
+regions[post_scripts_3] = Post Script Third
+regions[post_scripts_4] = Post Script Fourth
+regions[footer] = Footer
+
+settings[chrome_frame_on_off]  = 1
+settings[footer_credits]       = 1
+settings[footer_credits_label]    = "Site built using: " 
+settings[footer_credits_url]    = "http://github.com/danreb/abtik | Abtik Base Theme"

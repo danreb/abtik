@@ -1,0 +1,11 @@
+
+Using ABTIK STARTER theme
+
+1. Copy the starter folder and paste it to your drupal themes folder "sites/all/themes"
+2. Rename the folder that you copied to any name you want(example: mytheme)
+3. Rename starter.info with the same name as your folder name(ex. mytheme.info)
+4. Rename css/starter.css & js/starter.js base on the name you gave to your theme
+5. Update your .info file with the new name of your .css and .js file
+6. Start adding your css rule and js and design your subtheme
+7. Change the logo.png and screenshot.png with your own
+8. Enjoy!
