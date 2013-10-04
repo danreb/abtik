@@ -6,7 +6,7 @@ base theme = abtik
 
 stylesheets[screen][] = css/starter.css
 
-scripts[] = js/stater.js
+scripts[] = js/starter.js
 
 regions[top] = Top Most
 regions[userbar1] = User Bar First
